@@ -2,7 +2,6 @@
 1、安装包：npm i<br>
 2、前端运行：npm run serve<br>
 3、服务器运行（服务器代码在/server/index.js）：nodemon server<br>
-4、在局域网中使用平板手机调试的时候，可以修改一下src/main.js中的Vue.prototype.mobileurl这个配置
 
 # 2、笔记
 ## 1、原生 AJAX
